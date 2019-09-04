@@ -1,0 +1,21 @@
+h1{
+	text-align : center;
+	margin-top: 80px;
+	color:white;
+}
+
+form[name=addform]{
+	outline-style: dotted;
+	font-size: 20px;
+	text-align : left;
+	width : 400px;
+	margin : 400px;
+	margin-top:80px;
+	padding:20px;
+	background:white;
+	outline-color:white;
+}
+
+body {
+    background-image: url("background.jpeg");
+}

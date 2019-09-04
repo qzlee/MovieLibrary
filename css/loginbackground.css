@@ -1,0 +1,21 @@
+h2{
+	text-align:center;
+	margin-top : 80px;
+	font-size:50px;
+	color:white;
+}
+form[name=loginForm]{
+	outline-style: dotted;
+	font-size: 20px;
+	text-align : center;
+	width : 400px;
+	margin : 400px;
+	margin-top:100px;
+	padding:20px;
+	color:white;
+
+}
+
+body {
+    background-image: url("background.jpeg");
+}
